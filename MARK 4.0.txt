@@ -1,0 +1,29 @@
+melhorar tradução (traduzir menu superior, terminal, preview code seção, menu suspenso, Header)
+
+--
+a tela abaixo do terminal deveria listar os nodes criados, mas essa logica nao foi implementada(ele esta 
+listando ações, isso é um erro pois um Node = conjunto de ações gravadas e não as ações individuais de uma gravação.
+--
+adcionar a funcionalidade das screenshoots menu
+descrição da funcionalidade:
+---
+dentro da inteface adecionar animação do Mark para definir status "em execução" "parado" e "editando" e conforme o usuario interage com a interface uma reação diferente de mar -ideia de funcionario ativo- transição entre sprites de animação.
+-- 
+adcionar intro com o mark, a intro é tipo aquela tela de abertura antes do software inciar, isso deve ter o mark
+--
+Quero que quando o usuário clicar no botão Iniciar, um menu suspenso apareça.  e este cubo holográfico está no canto inferior direito da tela.  Se você estiver gravando, o cubo gira; se o usuário pausar a gravação, o cubo permanecerá parado.  e remova o fundo e reduza o tamanho do cubo
+--
+Header seletor e CSV import bugado, a coluna do csv sobrepondo no lugar do header
+--
+dark mode, barrinhas de arrastar da lateral precisam ser escuras
+--
+o menu de edição precisa de melhorias e correções, nao funcionou quando eu tentei re-executar o codigo apos edições
+--
+adcionar logo na interfce com nome (eu penso no cubo smart)
+--
+"Clear" precisa limpar literalmente tudo, jandela preview e terminal tambem
+
+--
+eu quero que o pyauogui.scroll funcionalidade seja adcionada. durante a gravação tambem deve ser indentificado o scroll do usuario.
+--
+
